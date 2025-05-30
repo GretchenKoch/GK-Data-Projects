@@ -3,7 +3,7 @@
 ## 📁 `rabbit-hole-timer`
 
 **Overview**  
-*Rabbit Hole* is a gamified Pomodoro-style timer designed to support focus and healthy distraction for users with executive function challenges—whether due to neurodivergence or simply a tendency to fall down increasingly irrelevant (but fascinating) tangents.
+*Rabbit Hole* is a gamified Pomodoro-style timer designed to support focus and healthy distraction for users with executive function challenges—whether due to neurodivergence or simply a tendency to follow increasingly irrelevant (but fascinating) tangents.
 
 **Concept**  
 Building on the traditional Pomodoro structure, *Rabbit Hole* introduces an animated cartoon rabbit that body doubles with the user. The rabbit works alongside you in its own little home office, typing at a computer during focus sessions. When it's time for a break, the rabbit leans into the screen and climbs through the monitor into a side-scrolling tunnel system—a visual metaphor for entering a “rabbit hole.”
