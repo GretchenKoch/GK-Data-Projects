@@ -1,0 +1,7 @@
+
+
+requirements 
+-speechrecognition
+-pyttsx3
+-pyaudio
+-openai
